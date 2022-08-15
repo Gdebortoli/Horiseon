@@ -1,25 +1,35 @@
-# Horiseon - Challenge 
+# Use code refreacting skills and Add Accessibility Comments on Horiseon's HTML and CSS files 
 
-HTML CSS Git Challenge: Code Refactor
+### Using Horiseon's started code, indivudually implement the following USER story: 
 
-On my own refreacted starter code HTML and CSS file to be accessible without 
-changing the contents of the website. 
+* AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines On my own refreacted starter code HTML and CSS file to be accessible without changing the contents of the website. 
 
-I was "hired" by a marketing agency to make their existing site more accesible so 
-people with disabilies are able to know the contents and layout of a webpage. 
+## Acceptance Criteria 
 
-We were instructed to rework the HTML and CSS files to make them more efficient, 
-consolidated and organized. 
+### GIVEN a webpage meets accessibility standards
+
+* WHEN I view the source code THEN I find semantic HTML elements
+* WHEN I view the structure of the HTML elements THEN I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the image elements THEN I find accessible alt attributes
+* WHEN I view the heading attributes THEN they fall in sequential order
+* WHEN I view the title element THEN I find a concise, descriptive title
+
+## Assets 
+
+### Screenshot
+
+Top of the page - 
+![](./assets/images/Top.jpeg)
+
+Bottom of the page
+![](./assets/images/Bottom.jpeg)
 
 
-This is the link we were meant to refreact and make more accessable. I used this as a reference. 
-<img width="415" alt="Screen Shot 2022-07-20 at 11 33 33 PM" src="https://user-images.githubusercontent.com/107385270/180145362-c9292740-7e0b-4eba-9fad-e599211c0cba.png">
+### Link to deployed application
 
-These are the screenshots of the finished product - 
+https://gdebortoli.github.io/Horiseon/
 
-<img width="415" src="https://user-images.githubusercontent.com/107385270/180148602-daab094c-fb89-41c8-a3fc-ac652048d7c7.jpeg" alt="top of the page">
-
-<img width="415" src="https://user-images.githubusercontent.com/107385270/180148290-8477e408-99a2-452a-aa53-d421540342bb.jpeg" alt="bottom of the page">
+This site was build using [Github Pages](https://gdebortoli.github.io/Horiseon/)
 
 
 
