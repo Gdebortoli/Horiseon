@@ -20,11 +20,11 @@
 
 #### Top of the page - 
 
-![](./assets/images/Top.jpeg)
+![hero and top of the page](./assets/images/Top.jpeg)
 
 #### Bottom of the page -
 
-![](./assets/images/Bottom.jpeg)
+![bottom and footer of page](./assets/images/Bottom.jpeg)
 
 
 ### Link to deployed application
